@@ -26,7 +26,7 @@ The Power BI report is designed to support regional directors, territory manager
 ---
 ## Video Walkthrough
  
-> 🎥 **Recording link:** `[LINK TO BE ADDED]`
+> **Recording link:** https://drive.google.com/file/d/1l-dUKELPUIZfTagpEwPYGC1ZShsz31U1/view?usp=sharing
  
 The video covers:
 - A walkthrough of all four required visuals with key insights

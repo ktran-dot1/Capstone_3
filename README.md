@@ -11,18 +11,18 @@ The Power BI report is designed to support regional directors, territory manager
 ---
 ## Report Pages
  
-### Page 1 — Sales Overview
+### Page 1, Sales Overview
 - **Sales Trend (Line Chart):** Monthly sales across the full 2022–2025 period for the South Region
 - **Sales by Category (Bar Chart):** Performance breakdown across all 6 product categories
 - **Sales by State (Donut Chart):** Relative share of total sales across Florida, South Carolina, and Texas
-### Page 2 — Top Books & Insights
-- **Top-Selling Books (Table):** Best-selling general audience books with author names, ranked by total sales — textbooks excluded
+### Page 2, Top Books & Insights
+- **Top-Selling Books (Table):** Best-selling general audience books with author names, ranked by total sales, textbooks excluded
 ---
 ## Tools & Skills Used
  
-- **Power BI Desktop** — report design, DAX measures, data modeling
-- **Power Query (M Language)** — data cleaning, transformation, Date table creation
-- **DAX** — calculated measures (Total In-Store Sales and Total Sales)
+- **Power BI Desktop**: report design, DAX measures, data modeling
+- **Power Query (M Language)**: data cleaning, transformation, Date table creation
+- **DAX**: calculated measures (Total In-Store Sales and Total Sales)
 ---
 ## Video Walkthrough
  
